@@ -1,0 +1,1 @@
+Right click Models directory and add controller to access the option of creating a controller using Entity Framework. This will do the magic called scaffolding!
